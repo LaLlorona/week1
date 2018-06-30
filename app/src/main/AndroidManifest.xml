@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.obokgeumdong.week1">
+    package="com.example.q.tap_structure">
 
     <application
         android:allowBackup="true"
@@ -16,10 +16,12 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="Fragment1"/>
-        <activity android:name="Fragment2"/>
-        <activity android:name="Fragment3"/>
+        <activity android:name="tap1Activity" />
+        <activity android:name="tap2Activity" />
+        <activity android:name="tap3Activity" />
+
 
     </application>
+
 
 </manifest>

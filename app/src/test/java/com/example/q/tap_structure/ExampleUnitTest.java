@@ -1,4 +1,4 @@
-package com.example.obokgeumdong.week1;
+package com.example.q.tap_structure;
 
 import org.junit.Test;
 
